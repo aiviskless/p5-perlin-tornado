@@ -1,5 +1,5 @@
 // colors of rectangle lines
-const LINE_COLORS = ["#4D9DE0", "#E15554", "#E1BC29", "#3BB273", "#7768AE"];
+const LINE_COLORS = ["#333F57", "#96A4AF", "#3B4455", "#B9C7D0", "#5F7489"];
 // count of rectangles on screen
 const RECT_COUNT = 75;
 
